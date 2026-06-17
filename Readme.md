@@ -141,6 +141,24 @@ streamlit run app.py
 
 ---
 
+## 📸 Screenshots
+
+### Recommendation Results
+
+```md
+![Recommendations](screenshots/recommendations.png)
+
+<img width="1737" height="928" alt="Screenshot 2026-06-17 112157" src="https://github.com/user-attachments/assets/026a13d5-b692-4bb4-a364-6245a91db1c4" />
+
+
+<img width="1597" height="925" alt="Screenshot 2026-06-17 112348" src="https://github.com/user-attachments/assets/adb8d3c5-79dc-4f5f-9d2b-896fcc8142bf" />
+
+```
+
+---
+
+
+
 ## ▶️ Usage
 
 1. Launch the Streamlit application.
@@ -172,22 +190,6 @@ This project uses a **Content-Based Filtering** approach.
 7. Convert text into vectors using TF-IDF.
 8. Calculate Cosine Similarity.
 9. Recommend Top 5 similar movies.
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-```md
-![Home Page](screenshots/home.png)
-```
-
-### Recommendation Results
-
-```md
-![Recommendations](screenshots/recommendations.png)
-```
 
 ---
 
