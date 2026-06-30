@@ -1,4 +1,4 @@
-# 🎬 CineMatch - Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A content-based Movie Recommendation System built using Machine Learning, Natural Language Processing (NLP), and Streamlit. The application recommends similar movies based on movie metadata such as genres, keywords, cast members, directors, and movie overviews.
 
@@ -183,69 +183,3 @@ This project uses a **Content-Based Filtering** approach.
 8. Calculate Cosine Similarity.
 9. Recommend Top 5 similar movies.
 
----
-
-## 🔮 Future Scope
-
-- User Authentication
-- Personalized Recommendations
-- Collaborative Filtering
-- Hybrid Recommendation System
-- Movie Trailers Integration
-- Movie Ratings and Reviews
-- Watchlist Feature
-- Advanced Search Filters
-- Genre-Based Recommendations
-- Deployment on Cloud Platforms
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-### Steps
-
-1. Fork the repository
-
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push to GitHub
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-
-**Kush Bharti**
-
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
